@@ -33,7 +33,6 @@ dev_dependencies:
       path: floor_generator
       ref: main
    
-   
   flutter_test:
     sdk: flutter
   matcher: ^0.12.10
